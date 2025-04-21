@@ -52,3 +52,5 @@
 ---
 
 > 💡 Завжди відкритий до нових проєктів, колаборацій і експериментів.
+
+![Hanashiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanashiko&show_icons=true&theme=radical)
