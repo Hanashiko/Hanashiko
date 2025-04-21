@@ -1,6 +1,6 @@
 # 👋 Привіт! Мене звати Ярослав
 
-Я Python-ентузіаст із зацікавленням у кібербезпеці, backend-розробці та автоматизації. Пишу різні утиліти, телеграм-ботів, REST API та інші штуки, які або полегшують життя, або трохи його хакнуть 😄
+Я Python-ентузіаст із зацікавленням у кібербезпеці, backend-розробці та автоматизації. Пишу різні утиліти, телеграм-ботів, REST API, працюю з хмарними сервісами, контейнерами та інші штуки, які або полегшують життя 😄
 
 ![Hanashiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanashiko&show_icons=true&theme=radical)
 
@@ -12,6 +12,8 @@
 - 🐹 **Go** — для алгоритмів, простих HTTP серверів, перебору субдоменів.
 - 🐘 **PHP (Laravel / Symfony)** — працюю над проєктами типу CRM систем, трекінгу тренувань, банківських скорингів.
 - 🗃️ **MySQL / SQLite** — зберігаю всі дані туди, де зручно.
+- 🐳 **Docker** — контейнеризація додатків, ізоляція середовища.
+- ☁️ **AWS** — досвід з деплоєм, інфраструктурою і хмарним хостингом.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanashiko&layout=donut-vertical&theme=radical)
 
@@ -40,6 +42,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
