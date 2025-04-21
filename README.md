@@ -58,3 +58,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanashiko&layout=donut-vertical&theme=radical))](https://github.com/hanashiko/github-readme-stats)
 
 [![Hanashiko's stats](https://github-readme-stats.vercel.app/api/wakatime?username=hanashiko)](https://github.com/hanashiko/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanashiko&repo=github-readme-stats)](https://github.com/hanashiko/github-readme-stats)
