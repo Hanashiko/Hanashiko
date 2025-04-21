@@ -13,7 +13,7 @@
 - 🐘 **PHP (Laravel / Symfony)** — працюю над проєктами типу CRM систем, трекінгу тренувань, банківських скорингів.
 - 🗃️ **MySQL / SQLite** — зберігаю всі дані туди, де зручно.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanashiko&layout=donut-vertical&theme=radical))](https://github.com/hanashiko/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanashiko&layout=donut-vertical&theme=radical)
 
 ## 🖥️ Я фанат Linux
 
