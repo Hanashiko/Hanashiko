@@ -2,6 +2,8 @@
 
 Я Python-ентузіаст із зацікавленням у кібербезпеці, backend-розробці та автоматизації. Пишу різні утиліти, телеграм-ботів, REST API та інші штуки, які або полегшують життя, або трохи його хакнуть 😄
 
+![Hanashiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanashiko&show_icons=true&theme=radical)
+
 ## 🧠 Основні навички
 
 - 🐍 **Python** — моя основна мова. Пишу REST API на Flask, телеграм-ботів на aiogram, утиліти, скрипти, алгоритми, та інше.
@@ -10,6 +12,8 @@
 - 🐹 **Go** — для алгоритмів, простих HTTP серверів, перебору субдоменів.
 - 🐘 **PHP (Laravel / Symfony)** — працюю над проєктами типу CRM систем, трекінгу тренувань, банківських скорингів.
 - 🗃️ **MySQL / SQLite** — зберігаю всі дані туди, де зручно.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanashiko&layout=donut-vertical&theme=radical))](https://github.com/hanashiko/github-readme-stats)
 
 ## 🖥️ Я фанат Linux
 
@@ -53,10 +57,4 @@
 
 > 💡 Завжди відкритий до нових проєктів, колаборацій і експериментів.
 
-![Hanashiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanashiko&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanashiko&layout=donut-vertical&theme=radical))](https://github.com/hanashiko/github-readme-stats)
-
-[![Hanashiko's stats](https://github-readme-stats.vercel.app/api/wakatime?username=hanashiko)](https://github.com/hanashiko/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanashiko&repo=github-readme-stats)](https://github.com/hanashiko/github-readme-stats)
