@@ -19,7 +19,7 @@
 
 ## 🖥️ Я фанат Linux
 
-Маю окремий репозиторій з [dotfiles](https://github.com/Hanashiko/dotfiles) для кастомного рісінгу i3 + nvim + polybar на Arch Linux.
+Маю окремі репозиторії з dotfiles для кастомного рісінгу ![i3](https://github.com/Hanashiko/dotfiles-i3) + ![nvim](https://github.com/Hanashiko/dotfiles-nvim) + ![polybar](https://github.com/Hanashiko/dotfiles-polybar) на Arch Linux.
 
 ## 🚁 Цікаві проєкти
 
