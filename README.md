@@ -51,7 +51,7 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat)
 
-![My streaks](https://streak-stats.demolab.com?user=Hanashiko&theme=radical&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hanashiko&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 📫 Зі мною можна зв'язатись
 
