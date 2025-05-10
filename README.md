@@ -19,7 +19,7 @@
 
 ## 🖥️ Я фанат Linux
 
-Маю окремі репозиторії з dotfiles для кастомного рісінгу ![i3](https://github.com/Hanashiko/dotfiles-i3) + ![nvim](https://github.com/Hanashiko/dotfiles-nvim) + ![polybar](https://github.com/Hanashiko/dotfiles-polybar) +[zsh](https://github.com/Hanashiko/dotfiles-zsh) на Arch Linux.
+Маю окремі репозиторії з dotfiles для кастомного рісінгу ![i3](https://github.com/Hanashiko/dotfiles-i3) + ![nvim](https://github.com/Hanashiko/dotfiles-nvim) + ![polybar](https://github.com/Hanashiko/dotfiles-polybar) + ![zsh](https://github.com/Hanashiko/dotfiles-zsh) + ![alacritty](https://github.com/Hanashiko/dotfiles-alacritty) на Arch Linux.
 
 ## 🚁 Цікаві проєкти
 
