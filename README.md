@@ -1,43 +1,43 @@
-# 👋 Привіт! Мене звати Ярослав
+# 👋 Hi there! I'm Yaroslav
 
-Я Python-ентузіаст із зацікавленням у кібербезпеці, backend-розробці та автоматизації. Пишу різні утиліти, телеграм-ботів, REST API, працюю з хмарними сервісами, контейнерами та інші штуки, які або полегшують життя 😄
+I'm a Python enthusiast with interests in cybersecurity, backend development, and automation. I create utilities, Telegram bots, REST APIs, and work with cloud services, containers, and other things that make life easier 😄
 
 ![Hanashiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanashiko&show_icons=true&theme=radical)
 
-## 🧠 Основні навички
+## 🧠 Core Skills
 
-- 🐍 **Python** — моя основна мова. Пишу REST API на Flask, телеграм-ботів на aiogram, утиліти, скрипти, алгоритми, та інше.
-- 🕸️ **Flask REST APIs** — для чатів, шифрування, навчальних систем тощо.
-- 🤖 **aiogram / pyrogram / telethon / telebot** — досвід створення ботів і юзерботів, логування, генерація паролів, 2FA, автоматизація, адмін-хелпери, ігрові боти.
-- 🐹 **Go** — для алгоритмів, простих HTTP серверів, перебору субдоменів.
-- 🐘 **PHP (Laravel / Symfony)** — працюю над проєктами типу CRM систем, трекінгу тренувань, банківських скорингів.
-- 🗃️ **MySQL / SQLite** — зберігаю всі дані туди, де зручно.
-- 🐳 **Docker** — контейнеризація додатків, ізоляція середовища.
-- ☁️ **AWS** — досвід з деплоєм, інфраструктурою і хмарним хостингом.
+- 🐍 **Python** — my main language. I build REST APIs with Flask, Telegram bots with aiogram, utilities, scripts, algorithms, and more.
+- 🕸️ **Flask REST APIs** — for messengers, encryption, learning systems, etc.
+- 🤖 **aiogram / pyrogram / telethon / telebot** — experience building bots and userbots, logging, password generation, 2FA, automation, admin tools, game bots.
+- 🐹 **Go** — for algorithms, simple HTTP servers, subdomain brute-forcing.
+- 🐘 **PHP (Laravel / Symfony / Magento 2)** — working on CRM systems, workout trackers, banking scoring systems.
+- 🗃️ **MySQL / SQLite** — storing data wherever it’s convenient.
+- 🐳 **Docker** — app containerization and environment isolation.
+- ☁️ **AWS** — experience with deployment, infrastructure, and cloud hosting.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanashiko&layout=donut-vertical&theme=radical)
 
-## 🖥️ Я фанат Linux
+## 🖥️ I'm a Linux Enthusiast
 
-Маю окремі репозиторії з dotfiles для кастомного рісінгу [i3](https://github.com/Hanashiko/dotfiles-i3) + [nvim](https://github.com/Hanashiko/dotfiles-nvim) + [polybar](https://github.com/Hanashiko/dotfiles-polybar) + [zsh](https://github.com/Hanashiko/dotfiles-zsh) + [alacritty](https://github.com/Hanashiko/dotfiles-alacritty) на Arch Linux.
+I maintain separate repositories for my dotfiles to customize my ricing setup with [i3](https://github.com/Hanashiko/dotfiles-i3) + [nvim](https://github.com/Hanashiko/dotfiles-nvim) + [polybar](https://github.com/Hanashiko/dotfiles-polybar) + [zsh](https://github.com/Hanashiko/dotfiles-zsh) + [alacritty](https://github.com/Hanashiko/dotfiles-alacritty) on Arch Linux.
 
-## 🚁 Цікаві проєкти
+## 🚁 Cool Projects
 
-- 🎮 **Flask + E2EE Messenger** — наскрізне шифрування (ECDH + AES256)
-- 🛰️ **Ryze Tello Drone** — керування з клавіатури та політ по заданому маршруту через `djitellopy`
-- 🛡️ **Spyware & Ransomware симуляції** — освітні проєкти для кібербезпеки
-- 🔒 **2FA реалізація** — як standalone, так і телеграм-бот для верифікації
-- 📷 **Image Utils** — зміна розміру, конвертація в PDF, grayscale тощо
-- 🤫 **Steganography** — ховаємо повідомлення в зображення
-- 🧠 **Алгоритми** — сортування, судоку, брутфорс хешів, XOR, Цезар, Віженер
-- 🧬 **Bitwise сортування**, **merge sort**, **рядково-стовпчикове шифрування**
-- 🕵️‍♂️ **Netcat на Python**, **DoS утиліта**, **логування Telegram сесій**
-- 🎲 **D&D кубики**, **боти для генерації нікнеймів**, **бот-менеджер бібліотеки**
-- 🔐 **Юзербот, що зберігає всі повідомлення при вході**
-- 📂 **Утиліти для перейменування, об’єднання зображень, перетворення**
-- 🧠 **Система навчальних квестів на Flask**, **банк скоринг на Laravel**
+- 🎮 **Flask + E2EE Messenger** — end-to-end encryption (ECDH + AES256)
+- 🛰️ **Ryze Tello Drone** — control via keyboard and predefined flight path using `djitellopy`
+- 🛡️ **Spyware & Ransomware Simulations** — educational cybersecurity projects
+- 🔒 **2FA Implementation** — both standalone and Telegram bot for verification
+- 📷 **Image Utilities** — resize, convert to PDF, grayscale, etc.
+- 🤫 **Steganography** — hide messages inside images
+- 🧠 **Algorithms** — sorting, sudoku, hash brute-force, XOR, Caesar, Vigenère
+- 🧬 **Bitwise sorting**, **merge sort**, **columnar and transposition ciphers**
+- 🕵️‍♂️ **Netcat in Python**, **DoS utility**, **Telegram session logging**
+- 🎲 **D&D dice**, **nickname generator bots**, **library manager bot**
+- 🔐 **Userbot that saves all messages on login**
+- 📂 **Utilities for renaming, merging images, converting formats**
+- 🧠 **Flask learning quest system**, **bank scoring on Laravel**
 
-## 🧰 Технології, з якими працюю
+## 🧰 Technologies I Work With
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff&style=flat)
@@ -53,7 +53,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hanashiko&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 📫 Зі мною можна зв'язатись
+## 📫 How to Reach Me
 
 - Telegram: [@Hanashiko](https://t.me/Hanashiko)
 - Email: `hlichisper@gmail.com`
@@ -61,6 +61,4 @@
 
 ---
 
-> 💡 Завжди відкритий до нових проєктів, колаборацій і експериментів.
-
-
+> 💡 Always open to new projects, collaborations, and experiments.
