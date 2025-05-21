@@ -19,7 +19,7 @@ I'm a Python enthusiast with interests in cybersecurity, backend development, an
 
 ## 🖥️ I'm a Linux Enthusiast
 
-I maintain separate repositories for my dotfiles to customize my ricing setup with [i3](https://github.com/Hanashiko/dotfiles-i3) + [nvim](https://github.com/Hanashiko/dotfiles-nvim) + [polybar](https://github.com/Hanashiko/dotfiles-polybar) + [zsh](https://github.com/Hanashiko/dotfiles-zsh) + [alacritty](https://github.com/Hanashiko/dotfiles-alacritty) on Arch Linux.
+I maintain separate repositories for my dotfiles to customize my ricing setup with [i3](https://github.com/Hanashiko/dotfiles-i3) + [nvim](https://github.com/Hanashiko/dotfiles-nvim) + [polybar](https://github.com/Hanashiko/dotfiles-polybar) + [zsh](https://github.com/Hanashiko/dotfiles-zsh) + [alacritty](https://github.com/Hanashiko/dotfiles-alacritty) + [rofi](https://github.com/Hanashiko/dotfiles-rofi) on Arch Linux.
 
 ## 🚁 Cool Projects
 
