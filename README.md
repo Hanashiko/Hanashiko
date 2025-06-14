@@ -24,6 +24,8 @@ I maintain separate repositories for my dotfiles to customize my ricing setup wi
 ## 🚁 Cool Projects
 
 - 🎮 **Flask + E2EE Messenger** — end-to-end encryption (ECDH + AES256)
+- - 🧪 **API Mocker** — AUR package [`apimocker`](https://aur.archlinux.org/packages/apimocker) to simulate REST API behavior via simple YAML configs
+- 🔐 **JWTK** — AUR tool [`jwtk`](https://aur.archlinux.org/packages/jwtk), terminal-based JWT viewer/editor/validator (like jwt.io, but in the terminal)
 - 🛰️ **Ryze Tello Drone** — control via keyboard and predefined flight path using `djitellopy`
 - 🛡️ **Spyware & Ransomware Simulations** — educational cybersecurity projects
 - 🔒 **2FA Implementation** — both standalone and Telegram bot for verification
